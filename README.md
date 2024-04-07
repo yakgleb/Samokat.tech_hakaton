@@ -6,6 +6,7 @@
 # Цель проекта:
 Необходимо классифицировать, какая из пар товаров (goods — offer) является матчем, а какая — нет.
 
+
 Результаты хакатона и более подробное описание можно посмотреть на кагле:
 [Kaggle](https://www.kaggle.com/competitions/binary-classification-offers-on-the-marketplace)
 
